@@ -1,0 +1,42 @@
+.corpo {
+    background-color: antiquewhite;
+    height: 25rem;
+    width: 20rem;
+    border-radius: 1rem;
+    margin: 5% auto;
+    text-align: center;
+    align-items: center;
+}
+input {
+    border-radius: 0.2rem;
+    border: 1px solid #aa1717;
+    height: 2rem;
+    width: 10rem;
+}
+.color {
+    background-color: LightYellow;
+    border-radius: 0.3rem;
+}
+img {
+    overflow: hidden;
+}
+p {
+    font-family: perpetua;
+}
+
+h1 {
+    text-shadow: #aa1717;
+    text-decoration: #aa1717;
+}
+.inp {
+    border: none;
+    background-color: #EBEBEB;
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+
